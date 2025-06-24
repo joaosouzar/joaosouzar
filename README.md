@@ -14,7 +14,7 @@
 
 <h2 align="center">Olá, 👋<br>Bem vindo ao meu GitHub!</h2>
 
-###
+##
 
 <h4 align="left">👩‍💻  <br>Profissional em transição de carreira, com formação em Direito e experiência como advogado desde 2015. Atualmente, atuo como Analista de QA com 2 anos de experiência em testes manuais de sistemas internos, criação e execução de casos de teste, testes exploratórios, regressão e validação de dados com SQL. Experiência em ambientes de homologação e produção, com foco na identificação de falhas críticas e na estabilidade do sistema. Atuação próxima a times de desenvolvimento e produto, contribuindo com a melhoria contínua da qualidade.</h4>
 
